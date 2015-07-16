@@ -1,0 +1,6 @@
+[submodule "neotree"]
+	   path = emacs.d/neotree
+	   url = https://github.com/jaypei/emacs-neotree.git
+[submodule "replace-colorthemes"]
+	   path = emacs.d/replace-colorthemes
+	   url = https://github.com/emacs-jp/replace-colorthemes.git
